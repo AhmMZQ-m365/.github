@@ -53,8 +53,4 @@ Des **solutions SharePoint Online et Microsoft 365 gratuites et open source** po
 - **Gouvernance et migration** : audits de tenant (permissions, partages externes, licences), migrations SharePoint et tenant-to-tenant ;
 - **Formations** : Microsoft 365 Copilot et IA générative, Copilot Studio, SharePoint et SPFx, Power Platform, pour utilisateurs, key users et équipes IT.
 
-Quelques résultats : un chatbot RH Copilot Studio qui fait gagner 4 à 6 h par semaine à l'équipe RH, un audit OneDrive automatisé qui réduit de 80 % le temps de traitement des anomalies.
-
-Références : Banque de France, Eutelsat, Conforama, Groupama, AG2R LA MONDIALE et un établissement public national.
-
 📩 Un projet d'agent IA, de SharePoint, de Power Platform ou un besoin de formation ? [Parlons-en sur Malt](https://www.malt.fr/profile/ahmedmarzaq) · [marzaqconsulting.fr](https://marzaqconsulting.fr/)
