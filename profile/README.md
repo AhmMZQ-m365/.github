@@ -7,7 +7,7 @@ Each solution lives in its own repository, with its source code, a full guide an
 
 ## About me
 
-I'm **Ahmed Marzaq**, a freelance **Tech Lead and trainer for Microsoft 365 and AI agents** (SharePoint Online, Power Platform, Copilot), based in Paris, with 8 to 15 years of experience.
+I'm **Ahmed MARZAQ**, a freelance **Tech Lead and trainer for Microsoft 365 and AI agents** (SharePoint Online, Power Platform, Copilot), based in Paris, with 8 years of experience.
 
 I help IT departments, digital factories and business teams design, industrialize and roll out their Microsoft 365 solutions. The solutions published here come from real needs I have met in projects.
 
@@ -17,12 +17,6 @@ I help IT departments, digital factories and business teams design, industrializ
 | 💻 **SharePoint & Power Platform** | SPFx web parts (React, TypeScript), intranet redesigns, Power Apps and Code Apps, Dataverse, Power Automate, ALM and DLP |
 | 🛡️ **M365 governance & migration** | Tenant audits (permissions, external sharing, licenses), SharePoint and tenant-to-tenant migrations (ShareGate, PnP PowerShell) |
 | 🎓 **Training** | Microsoft 365 Copilot and generative AI, Copilot Studio, SharePoint Online and SPFx, Power Apps and Power Automate, for end users, key users and IT teams |
-
-**Some results:** an HR chatbot built with Copilot Studio and Azure OpenAI that saves the HR team 4 to 6 hours a week; an automated OneDrive sharing audit that cut the time spent on anomalies by 80%.
-
-**References:** Banque de France, Eutelsat, Conforama, Groupama, AG2R LA MONDIALE, and a national public institution.
-
-**Background:** Master's degree in Web Technologies, Université Paris 8. Languages: French, Arabic, English.
 
 📩 An AI agent, SharePoint or Power Platform project, or a training need? [Contact me on Malt](https://www.malt.fr/profile/ahmedmarzaq) · [marzaqconsulting.fr](https://marzaqconsulting.fr/)
 
